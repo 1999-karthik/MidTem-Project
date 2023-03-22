@@ -1,0 +1,5 @@
+Team:-
+Sai Karthik Navuluru -Team Leader
+Sowmya Reddy Baddam - Data Scientist
+Saranya Reddy - Data Visualization
+Triyogya - Data Modelling
